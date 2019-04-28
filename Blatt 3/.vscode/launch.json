@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A1",
+            "request": "launch",
+            "mainClass": "A1",
+            "projectName": "Blatt 3_e2af602e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A2",
+            "request": "launch",
+            "mainClass": "A2",
+            "projectName": "Blatt 3_e2af602e"
+        }
+    ]
+}

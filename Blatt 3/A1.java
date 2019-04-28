@@ -23,7 +23,7 @@ class Konto {
         return kontoNummer;
     }
 
-    public void setKontonummer(double kontoNummer) {
+    public void setKontonummer(String kontoNummer) {
         this.kontoNummer = kontoNummer;
     }
 
